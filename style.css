@@ -18,7 +18,7 @@
    background-color: rgba(60, 60, 60, 0.2);
    position: relative;
    z-index: 2;
-   transition: all 0.2s ease 0s;
+   transition: background-color 0.2s ease 0s;
 }
 .cards-product__text {
    position: absolute;
